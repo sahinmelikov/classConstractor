@@ -1,0 +1,15 @@
+C:\Users\555\OneDrive\Masaüstü\ClassConstructor\ClassConstructor\bin\Debug\net6.0\ClassConstructor.exe
+C:\Users\555\OneDrive\Masaüstü\ClassConstructor\ClassConstructor\bin\Debug\net6.0\ClassConstructor.deps.json
+C:\Users\555\OneDrive\Masaüstü\ClassConstructor\ClassConstructor\bin\Debug\net6.0\ClassConstructor.runtimeconfig.json
+C:\Users\555\OneDrive\Masaüstü\ClassConstructor\ClassConstructor\bin\Debug\net6.0\ClassConstructor.dll
+C:\Users\555\OneDrive\Masaüstü\ClassConstructor\ClassConstructor\bin\Debug\net6.0\ClassConstructor.pdb
+C:\Users\555\OneDrive\Masaüstü\ClassConstructor\ClassConstructor\obj\Debug\net6.0\ClassConstructor.csproj.AssemblyReference.cache
+C:\Users\555\OneDrive\Masaüstü\ClassConstructor\ClassConstructor\obj\Debug\net6.0\ClassConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\555\OneDrive\Masaüstü\ClassConstructor\ClassConstructor\obj\Debug\net6.0\ClassConstructor.AssemblyInfoInputs.cache
+C:\Users\555\OneDrive\Masaüstü\ClassConstructor\ClassConstructor\obj\Debug\net6.0\ClassConstructor.AssemblyInfo.cs
+C:\Users\555\OneDrive\Masaüstü\ClassConstructor\ClassConstructor\obj\Debug\net6.0\ClassConstructor.csproj.CoreCompileInputs.cache
+C:\Users\555\OneDrive\Masaüstü\ClassConstructor\ClassConstructor\obj\Debug\net6.0\ClassConstructor.dll
+C:\Users\555\OneDrive\Masaüstü\ClassConstructor\ClassConstructor\obj\Debug\net6.0\refint\ClassConstructor.dll
+C:\Users\555\OneDrive\Masaüstü\ClassConstructor\ClassConstructor\obj\Debug\net6.0\ClassConstructor.pdb
+C:\Users\555\OneDrive\Masaüstü\ClassConstructor\ClassConstructor\obj\Debug\net6.0\ClassConstructor.genruntimeconfig.cache
+C:\Users\555\OneDrive\Masaüstü\ClassConstructor\ClassConstructor\obj\Debug\net6.0\ref\ClassConstructor.dll
