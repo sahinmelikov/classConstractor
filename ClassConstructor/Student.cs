@@ -13,6 +13,19 @@ namespace ClassConstructor
             this.point= poin;
             this.IsGraduated= IsGraduated;
         }
+       public void Showinfo()
+        {
+            Console.WriteLine("{");
+            Console.WriteLine($"Name:{name}");
+            Console.WriteLine($"Surname:{surname}");
+            Console.WriteLine($"group:{group}");
+            Console.WriteLine($"point:{point}");
+            Console.WriteLine($"IsGraduated:{IsGraduated}");
+            Console.WriteLine("}");
+           
+
+
+        }
 
         public string name;
         public string surname;
